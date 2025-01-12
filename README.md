@@ -16,7 +16,7 @@ Engage in a thrilling space combat experience where challenges dynamically adjus
 The primary goal of this prototype is to demonstrate the DDA system's ability to create a personalized gaming experience. It adjusts the game's difficulty based on real-time analysis of player performance, aiming to maintain engagement and satisfaction.
 
 ## How to Play
-1. **Download the Build:** Access the [Releases](https://github.com/BeHaVeZ/DDA_GW2024-25/releases) section to download the latest version of the game.
+1. **Download the Build:** Access the [Releases](https://github.com/BeHaVeZ/BeHaVeZ-DDA_GW2024-25/releases/) section to download the latest version of the game.
 2. **Install the Game:** Extract the SpaceCombatPrototype folder.
 3. **Start the game** Run the DDA-Gradwork.exe and the game should boot up.
 4. **Experience Dynamic Difficulty:** Play through the game and observe how the difficulty changes in response to your gameplay style. Experiment with different tactics to see how the system adjusts.
