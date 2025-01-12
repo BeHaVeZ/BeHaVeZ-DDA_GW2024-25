@@ -29,10 +29,10 @@ I highly value your feedback! After playing, please provide your insights via ou
 Contributions are welcome! If you are interested in improving the game or the DDA algorithms, you could contact me to get the project through LinkedIn -> [[My LinkedIn page](https://www.linkedin.com/in/alexanderterentyev/)].
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 A heartfelt thank you to all testers and contributors who have supported this project. Your involvement is fundamental to the development and success of this adaptive gaming experience.
-Also a huge thanks to my supervisors during this research [[Fries Boury](https://www.linkedin.com/in/friesboury/)] and [[Kasper Geeroms](https://www.linkedin.com/in/kasper-geeroms-01258259/?originalSubdomain=be) for guiding me throughout the whole project.
+Also a huge thanks to my supervisors during this research [[Fries Boury](https://www.linkedin.com/in/friesboury/)] and [[Kasper Geeroms](https://www.linkedin.com/in/kasper-geeroms-01258259/?originalSubdomain=be)] for guiding me throughout the whole project.
 Thank you ❤
 ~_Alexander T._
