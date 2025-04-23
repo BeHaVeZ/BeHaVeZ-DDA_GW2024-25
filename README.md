@@ -1,4 +1,6 @@
 # Space Combat Arena: Dynamic Difficulty Adjustment (DDA) Prototype
+![Unity](https://img.shields.io/badge/engine-Unity-ff69b4?logo=unity) ![C#](https://img.shields.io/badge/language-C%23-purple?logo=c-sharp) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 ## Overview
 Welcome to the interactive demo of my Dynamic Difficulty Adjustment (DDA) system.
